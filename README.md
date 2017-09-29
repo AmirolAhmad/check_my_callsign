@@ -10,6 +10,6 @@ Download this file or clone it and run in your terminal by typing ```ruby scrapp
 All the data shown here is belongs to **Malaysian Communications and Multimedia Commission (MCMC)**
 
 #### Screenshot
-![alt text][screenshot]
+![alt text][screenshot1]
 
-[screenshot]: https://github.com/AmirolAhmad/check_my_callsign/raw/master/screenshot.png "Screenshot"
+[screenshot1]: https://github.com/AmirolAhmad/check_my_callsign/raw/master/screenshot1.png "Screenshot"
