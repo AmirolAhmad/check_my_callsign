@@ -27,7 +27,7 @@ page_url = "https://www.mcmc.gov.my/legal/registers/register-of-apparatus-assign
 
 if @page.search('table.tableStyle01 tbody tr td.Holder')[0]&.text == nil
   puts "---------------------------------"
-  puts "Sorry! There is no data for for #{callsign.upcase}"
+  puts "Sorry! There is no data for #{callsign.upcase}"
   puts "---------------------------------"
 else
   puts "---------------------------------"
